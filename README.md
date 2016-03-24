@@ -1,3 +1,4 @@
+![HaYate](https://avatars2.githubusercontent.com/u/14178940 "蛤蛤蛤")
 #HaYate的Github记录
 
 * [新浪微博](http://weibo.com/u/100774474)
